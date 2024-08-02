@@ -94,7 +94,7 @@ Example using `tshark`:
     kubectl sniff pod-name -f "port 80" -o - | tshark -r -
 
 ### Contribution
-More than welcome! please don't hesitate to open bugs, questions, pull requests 
+More than welcome! Please don't hesitate to open bugs, questions, pull requests.
 
 ### Future Work
 1. Instead of uploading static tcpdump, use the future support of "kubectl debug" feature
