@@ -33,7 +33,7 @@ For manual installation, download the latest release package, unzip it and use t
 
 ### Wireshark
 
-If you are using Wireshark with ksniff you must use at least version 3.4.0. Using older versions may result in issues reading captures (see [Known Issues](#known-issues) below).
+If you are using Wireshark with ksniff, you must use at least version 3.4.0. Using older versions may result in issues reading captures (see [Known Issues](#known-issues) below).
 
 ## Build
 
