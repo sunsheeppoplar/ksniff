@@ -12,7 +12,7 @@ You get the full power of Wireshark with minimal impact on your running pods.
 When working with micro-services, many times it's very helpful to get a capture of the network
 activity between your micro-service and its dependencies.
 
-ksniff use kubectl to upload a statically compiled tcpdump binary to your pod and redirecting it's
+ksniff use kubectl to upload a statically compiled tcpdump binary to your pod and redirecting its
 output to your local Wireshark for smooth network debugging experience.
 
 ### Demo
